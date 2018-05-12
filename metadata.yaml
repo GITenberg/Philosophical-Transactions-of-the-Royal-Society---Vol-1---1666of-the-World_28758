@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33517
     wikipedia: http://en.wikipedia.org/wiki/Henry_Oldenburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28758#Philosophical-Transactions-of-the-Royal-Society---Vol-1---1666of-the-World
 gutenberg_issued: '2009-05-11'
 gutenberg_type: Text
 identifiers:
